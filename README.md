@@ -1,5 +1,7 @@
-- 👋 I’m @damianc
+- 👋 @damianc
 - 🦧🐒 coding ape
+
+you see $e = mc^2$, I see $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 
 
 <!---
