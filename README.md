@@ -1,7 +1,12 @@
 - 👋 @damianc
 - 🦧🐒 coding ape
 
-you see $e = mc^2$, I see $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
+<!--
+$e = mc^2$
+$c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
+-->
+
+> when in $f: x \mapsto \sqrt[x]{x}$, stick to $e$
 
 
 <!---
