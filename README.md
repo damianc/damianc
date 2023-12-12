@@ -30,3 +30,8 @@ You can click the Preview link to take a look at your changes.
 - [`math-conv`](https://github.com/damianc/math-conv)
 - [`math-logical`](https://github.com/damianc/math-logical)
 - [`circleats`](https://github.com/damianc/circleats)
+
+#### React Tools
+
+- [`useStaticState()`](https://github.com/damianc/use-static-state)
+- [React JSX Directives](https://github.com/damianc/babel-plugin-react-jsx-directives)
