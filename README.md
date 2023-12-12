@@ -16,6 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 ### My Work
 
+#### Dev Knowledge
+
+- [Dev Notes](https://github.com/damianc/dev-notes)
+
 #### Math Tools
 
 - [`math-root`](https://github.com/damianc/math-root)
