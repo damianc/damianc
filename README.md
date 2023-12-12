@@ -39,3 +39,35 @@ You can click the Preview link to take a look at your changes.
 
 - [`useStaticState()`](https://github.com/damianc/use-static-state)
 - [React JSX Directives](https://github.com/damianc/babel-plugin-react-jsx-directives)
+
+#### JavaScript Tools
+
+- [`spreadMap()`](https://github.com/damianc/spreadMap)
+- [`reduceFinalize()`](https://github.com/damianc/reduceFinalize)
+- [Hot Generator](https://github.com/damianc/hot-generator)
+- [FlowPipe](https://github.com/damianc/FlowPipe)
+- [ShortcodeJS](https://github.com/damianc/ShortcodeJS)
+- [nothing](https://github.com/damianc/nothing)
+- [ObjPath](https://github.com/damianc/obj-path)
+
+#### Larger JS Tools
+
+- [ObjQL](https://github.com/damianc/ObjQL)
+- [array-x](https://github.com/damianc/array-x)
+- [gulp-javascript-pl](https://github.com/damianc/gulp-javascript-pl)
+
+#### RegExp Tools
+
+- [PattRe](https://github.com/damianc/pattre)
+
+#### Map Tools
+
+- [Leaflet Place Groups Picker](https://github.com/damianc/leaflet-place-groups-picker)
+
+#### WordPress Tools
+
+- [Is This Post Helpful](https://github.com/damianc/is-this-post-helpful)
+
+#### Python Tools
+
+- [Subject.py](https://github.com/damianc/Subject.py)
