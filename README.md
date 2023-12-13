@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 - [`spreadMap()`](https://github.com/damianc/spreadMap)
 - [`reduceFinalize()`](https://github.com/damianc/reduceFinalize)
+- [`sortBy()`](https://github.com/damianc/sortBy)
 - [Hot Generator](https://github.com/damianc/hot-generator)
 - [FlowPipe](https://github.com/damianc/FlowPipe)
 - [ShortcodeJS](https://github.com/damianc/ShortcodeJS)
