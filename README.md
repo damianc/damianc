@@ -53,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Larger JS Tools
 
+- [PubSub](https://github.com/damianc/PubSub/tree/master)
 - [ObjQL](https://github.com/damianc/ObjQL)
 - [array-x](https://github.com/damianc/array-x)
 - [gulp-javascript-pl](https://github.com/damianc/gulp-javascript-pl)
