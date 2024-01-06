@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 - [ShortcodeJS](https://github.com/damianc/ShortcodeJS)
 - [nothing](https://github.com/damianc/nothing)
 - [ObjPath](https://github.com/damianc/obj-path)
+- [array.im](https://github.com/damianc/array.im)
 
 #### Larger JS Tools
 
