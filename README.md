@@ -22,12 +22,16 @@ You can click the Preview link to take a look at your changes.
 
 #### Math Tools
 
-- [`math-root`](https://github.com/damianc/math-root)
-- [`math-logn`](https://github.com/damianc/math-logn)
+- [`math-root`](https://github.com/damianc/math-root)  
+  getting $\sqrt[n]{x}$
+- [`math-logn`](https://github.com/damianc/math-logn)  
+  getting $\log_n(x)$
 - [`math-percent`](https://github.com/damianc/math-percent)
 - [`math-mean`](https://github.com/damianc/math-mean)
-- [`math-ng`](https://github.com/damianc/math-ng)
-- [`math-qfZeros`](https://github.com/damianc/math-qfzeros)
+- [`math-ng`](https://github.com/damianc/math-ng)  
+  getting _[a]cot/sec/csc[h]_
+- [`math-qfZeros`](https://github.com/damianc/math-qfzeros)  
+  getting $x_0\ \cup\ x_{1,2}$ of $ax^2+bx+c$
 - [`math-distantPoint`](https://github.com/damianc/math-distantPoint)
 - [`math-atan2point`](https://github.com/damianc/math-atan2point)
 - [`math-atan3`](https://github.com/damianc/math-atan3)
