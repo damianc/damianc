@@ -34,7 +34,8 @@ You can click the Preview link to take a look at your changes.
   getting $x_0\ \cup\ x_{1,2}$ of $ax^2+bx+c$
 - [`math-distantPoint`](https://github.com/damianc/math-distantPoint)
 - [`math-atan2point`](https://github.com/damianc/math-atan2point)
-- [`math-atan3`](https://github.com/damianc/math-atan3)
+- [`math-atan3`](https://github.com/damianc/math-atan3)  
+  `Math.atan2()` for points that $\underset{i \in \\{1,2\\}}{\forall} {P_i}_x + {P_i}_y \neq 0$
 - [`math-conv`](https://github.com/damianc/math-conv)
 - [`math-logical`](https://github.com/damianc/math-logical)
 - [`circleats`](https://github.com/damianc/circleats)
