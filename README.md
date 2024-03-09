@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 - [`math-mean`](https://github.com/damianc/math-mean)
 - [`math-ng`](https://github.com/damianc/math-ng)  
   getting _[a]cot/sec/csc[h]_
+- [`math-ngx`](https://github.com/damianc/math-ngx)  
+getting  _[arcus] ex[co]secant/[ha][co]versin/vercos_
 - [`math-qfZeros`](https://github.com/damianc/math-qfzeros)  
   getting $x_0\ \cup\ x_{1,2}$ of $ax^2+bx+c$
 - [`math-distantPoint`](https://github.com/damianc/math-distantPoint)
