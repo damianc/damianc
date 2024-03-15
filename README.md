@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 #### Math Tools
 
+- [`prod-sum`](https://github.com/damianc/prod-sum)  
+  getting $\Sigma$ and $\Pi$ (i.e., sum and product)
 - [`math-root`](https://github.com/damianc/math-root)  
   getting $\sqrt[n]{x}$
 - [`math-logn`](https://github.com/damianc/math-logn)  
