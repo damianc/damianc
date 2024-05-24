@@ -8,7 +8,7 @@ $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 
 > when in $f: x \mapsto \sqrt[x]{x}$, stick to $e$
  
-> _all cats are bound to die_ 😺☠️
+> _all cats are bound to die_ 😺☠️  
 > **Schopenhauer's cat theorem**
 
 
