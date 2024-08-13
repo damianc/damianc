@@ -8,9 +8,13 @@ $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 
 > when in $f: x \mapsto \sqrt[x]{x}$, stick to $e$
  
-> _all cats are bound to die_ 😺☠️  
+> _every cat is bound to die_ 😺☠️  
 > **Schopenhauer's cat theorem**
 
+$$
+\frac{\sin\ x}{n} =
+\frac{\text{si}\cancel{\color{gray}\text{n}}\ x}{\cancel{\color{gray} n}} = 6
+$$
 
 <!---
 damianc/damianc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
