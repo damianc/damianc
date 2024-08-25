@@ -13,6 +13,9 @@ $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 
 > $\frac{\sin\ x}{n} = \frac{\text{si}\cancel{\color{#aaa}\text{n}}\ x}{\cancel{\color{#aaa} n}} = 6$
 
+> $\because$ **Einstein**: $E = MC^2$  
+> $\therefore$ **Zweistein**: $2 = \log_C\left( \frac{E}{M} \right)$
+
 <!---
 damianc/damianc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
