@@ -23,9 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 ### My Work
 
-#### Dev Knowledge
+#### Knowledge
 
 - [Dev Notes](https://github.com/damianc/dev-notes)
+- [Math Notes](https://github.com/damianc/math-notes)
 
 #### Math Tools
 
