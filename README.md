@@ -31,7 +31,9 @@ You can click the Preview link to take a look at your changes.
 #### Math Tools
 
 - [`Math.matrix`](https://github.com/damianc/math-matrix)  
-  support for matrices in JavaScript  
+  support for matrices in JavaScript
+- [`math-cn`](https://github.com/damianc/math-cn)  
+  extension to work on complex numbers  
 - [`prod-sum`](https://github.com/damianc/prod-sum)  
   getting $\Sigma$ and $\Pi$ (i.e., sum and product)
 - [`math-root`](https://github.com/damianc/math-root)  
