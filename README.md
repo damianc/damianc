@@ -1,6 +1,7 @@
 - 👋 @damianc
 - 🦧🐒 coding ape
 - 📏📐 math freak
+- 🛸✨ 0% gamer, 0% geek
 
 <!--
 $e = mc^2$
