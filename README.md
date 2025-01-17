@@ -24,6 +24,13 @@ damianc/damianc is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+### Some of My Articles
+
+- [Dealing with calculations when `Math` doesn’t provide the needed method](https://medium.com/@damianczapiewski/dealing-with-calculations-when-math-doesnt-provide-the-needed-method-26660f51b8fb)
+- [Custom RxJS Operators](https://medium.com/@damianczapiewski/custom-rxjs-operators-637c7d3d8f86)
+- [How to Pimp Up the Git Bash Prompt on Windows (without any External Stuff)](https://medium.com/@damianczapiewski/how-to-pimp-up-the-git-bash-prompt-on-windows-without-any-external-stuff-c69eb9ef0125)
+- [10 Traps You May Encounter when Working with Regular Expressions in JavaScript](https://medium.com/swlh/10-traps-you-may-encounter-when-working-with-regular-expressions-in-javascript-633e37e29d16)
+
 ### My Work
 
 #### Knowledge
