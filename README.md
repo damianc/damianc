@@ -20,7 +20,7 @@ $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 > $\because$ **Einstein**: $E = MC^2$  
 > $\therefore$ **Zweistein**: $2 = \log_C\left( \frac{E}{M} \right)$
 
-> you're not a mathematician if you don't happen to fail at basics
+> you ain't no mathematician if you never fucked up basic algebra
 
 <!---
 damianc/damianc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
