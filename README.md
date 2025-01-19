@@ -8,7 +8,7 @@ $e = mc^2$
 $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 -->
 
-> when in $f: x \mapsto \sqrt[x]{x}$, stick to $e$
+> when in $f: x \mapsto x^{\frac{1}{x}}$, stick to $e$
  
 > _every cat is bound to die_ 😺☠️  
 > **Schopenhauer's cat theorem**
@@ -19,6 +19,8 @@ $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 
 > $\because$ **Einstein**: $E = MC^2$  
 > $\therefore$ **Zweistein**: $2 = \log_C\left( \frac{E}{M} \right)$
+
+> you're not a mathematician if you don't fail at basics
 
 <!---
 damianc/damianc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
