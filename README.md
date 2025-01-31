@@ -3,11 +3,6 @@
 - 📏📐 math freak
 - 🛸✨ 0% gamer, 0% geek
 
-<!--
-$e = mc^2$
-$c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
--->
-
 > when in $f: x \mapsto x^{\frac{1}{x}}$, stick to $e$
  
 > _every cat is bound to die_ 😺☠️  
@@ -16,11 +11,6 @@ $c=\left(\frac{e}{m}\right)^{\frac{1}{2}}$
 <!--
 > $\frac{\sin\ x}{n} = \frac{\text{si}\cancel{\color{#aaa}\text{n}}\ x}{\cancel{\color{#aaa} n}} = 6$
 -->
-
-> $\because$ **Einstein**: $E = MC^2$  
-> $\therefore$ **Zweistein**: $2 = \log_C\left( \frac{E}{M} \right)$
-
-> you ain't no mathematician if you never fucked up basic algebra
 
 <!---
 damianc/damianc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
