@@ -8,6 +8,8 @@
 > _every cat is bound to die_ 😺☠️  
 > **Schopenhauer's cat theorem**
 
+> if life is a function, the function of my life has the gradient being a vector field with all vectors running centrifugally
+
 <!--
 > $\frac{\sin\ x}{n} = \frac{\text{si}\cancel{\color{#aaa}\text{n}}\ x}{\cancel{\color{#aaa} n}} = 6$
 -->
