@@ -1,7 +1,6 @@
 - 👋 @damianc
 - 🦧🐒 coding ape
 - 📏📐 math freak
-- 🛸✨ 0% gamer, 0% geek
 
 > when in $f: x \mapsto x^{\frac{1}{x}}$, stick to $e$
  
