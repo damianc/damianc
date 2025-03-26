@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 #### Math Tools
 
+- [`Math.interpolate`](https://github.com/damianc/Math.interpolate)  
+  the Lagrange interpolation
 - [`Math.matrix`](https://github.com/damianc/math-matrix)  
   support for matrices in JavaScript
 - [`Math.vc`](https://github.com/damianc/Math.vc)  
