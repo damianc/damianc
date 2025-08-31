@@ -49,6 +49,8 @@ You can click the Preview link to take a look at your changes.
   getting $\sqrt[n]{x}$
 - [`math-logn`](https://github.com/damianc/math-logn)  
   getting $\log_n(x)$
+- [`math-commom`](https://github.com/damianc/math-common)  
+  getting **GCD**, **LCM** and **LCD**
 - [`math-percent`](https://github.com/damianc/math-percent)
 - [`math-mean`](https://github.com/damianc/math-mean)
 - [`math-ng`](https://github.com/damianc/math-ng)  
